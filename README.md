@@ -1,5 +1,5 @@
 
-<img src="https://github.com/GauravSingh9356/J.A.R.V.I.S/blob/master/ReadmeHeader.gif">
+<img src="https://github.com/Saza-Felix/README/blob/main/download.png">
 <div align="center">
   
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Devs!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT)
@@ -93,7 +93,7 @@ sudo apt-get update && sudo apt-get install espeak
 ```
 
 
-<img src="jarvis1.jpg"/>
+<img src="IMAGES/jav.png"/>
 
 ### What it does...
 
