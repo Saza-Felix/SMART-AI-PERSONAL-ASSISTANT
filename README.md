@@ -93,7 +93,7 @@ sudo apt-get update && sudo apt-get install espeak
 ```
 
 
-<img src="https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT/IMAGES/jav.png"/>
+<img src="https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT/blob/main/IMAGES/jav.PNG"/>
 
 ### What it does...
 
