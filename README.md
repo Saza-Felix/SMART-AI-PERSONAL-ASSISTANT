@@ -2,12 +2,12 @@
 <img src="https://github.com/GauravSingh9356/J.A.R.V.I.S/blob/master/ReadmeHeader.gif">
 <div align="center">
   
-[![Welcome to my profile](https://img.shields.io/badge/Hello,Devs!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
- [![GitHub issues](https://img.shields.io/github/issues/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/issues)
-![Stars](https://img.shields.io/github/stars/gauravsingh9356/J.A.R.V.I.S?style=flat&logo=github)
-![Forks](https://img.shields.io/github/forks/gauravsingh9356/J.A.R.V.I.S?style=flat&logo=github)
-[![GitHub license](https://img.shields.io/github/license/GauravSingh9356/J.A.R.V.I.S)](https://github.com/GauravSingh9356/J.A.R.V.I.S/blob/master/LICENSE)
+[![Welcome to my profile](https://img.shields.io/badge/Hello,Devs!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT)
+ [![GitHub issues](https://img.shields.io/github/issues/GauravSingh9356/J.A.R.V.I.S)](https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANTissues)
+![Stars](https://img.shields.io/github/stars/github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT?style=flat&logo=github)
+![Forks](https://img.shields.io/github/forks/github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT?style=flat&logo=github)
+[![GitHub license](https://img.shields.io/github/license/github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT)](https://github.com/github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT/blob/master/LICENSE)
   
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -35,6 +35,44 @@
 <li>pyjokes</li>
 <li>psutil</li>
 <li> pyautogui</li>
+<li> subprocess</li>
+<li> fnmatch</li>
+<li> translate</li>
+<li> pywhatkit</li>
+<li> wolframalpha</li>
+<li> pyttsx3</li>
+<li> tkinter</li>
+<li> json</li>
+<li> random</li>
+<li> operator</li>
+<li> speechrecognition</li>
+<li> datetime</li>
+<li> wikipedia</li>
+<li> webbrowser</li>
+<li> os</li>
+<li> winshell</li>
+<li> pyjokes</li>
+<li> feedparser</li>
+<li> smtplib</li>
+<li> ctypes</li>
+<li> time</li>
+<li> requests</li>
+<li> shutil</li>
+<li> mouseinfo</li>
+<li> screenshot</li>
+<li> twilio</li>
+<li>rest </li>
+<li> Client</li>
+<li> clint</li>
+<li>textui </li>
+<li> progress</li>
+<li> ecapture</li>
+ <li> ecapture</li>
+ <li> BeautifulSoup
+<li> win32com</li>
+<li> urllib</li>
+<li>request</li>
+<li> urlopen</li>
 
 <h2>Required Packages</h2>
 
@@ -114,7 +152,6 @@ sudo apt-get update && sudo apt-get install espeak
   
   # And so on....
   
-<a href="https://techtalkswithgaurav.blogspot.com/2020/06/your-personal-assistant-jarvis.html" target="_blank">Read complete blog article</a>
 
 ## Contribution:
 Thank you for your interest in contributing to our Repo! Pull requests are welcome. For fixing typos, please make a PR with your fixes. We are happy for every contribution.
