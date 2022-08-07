@@ -93,7 +93,7 @@ sudo apt-get update && sudo apt-get install espeak
 ```
 
 
-<img src="IMAGES/jav.png"/>
+<img src="https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT/IMAGES/jav.png"/>
 
 ### What it does...
 
@@ -115,19 +115,6 @@ sudo apt-get update && sudo apt-get install espeak
  <li>Now Master can switch b/w J.A.R.V.I.S and F.R.I.D.A.Y, switch to female voice assistant</li>
 </ul>
 
-<table>
-  <tr>
-    <td><img src="images/Screenshot%20(138).png"/></td>
-
-</tr>
-<tr>
-<td><img src="images/email.jpg"/></td>
-
-<td><img src="images/location.png"/></td>
-</tr>
-<td><img src="images/pytube.png"/></td>
-</tr>
-</table>
 
 ## Some Sneak peeks:
 
