@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Saza-Felix/README/blob/main/download.png" width="50" height="50">
+<img src="https://github.com/Saza-Felix/README/blob/main/download.png" width="150" height="100">
 <div align="center">
   
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Devs!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT)
@@ -93,7 +93,7 @@ sudo apt-get update && sudo apt-get install espeak
 ```
 
 
-<img src="https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT/blob/main/IMAGES/jav.PNG"  width="150" height="100">
+<img src="https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT/blob/main/IMAGES/jav.PNG"  width="500" height="300">
 
 ### What it does...
 
