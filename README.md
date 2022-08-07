@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Saza-Felix/README/blob/main/download.png">
+<img src="https://github.com/Saza-Felix/README/blob/main/download.png" width="50" height="50">
 <div align="center">
   
 [![Welcome to my profile](https://img.shields.io/badge/Hello,Devs!-Welcome-blue.svg?style=flat&logo=github)](https://github.com/Saza-Felix/SMART-AI-PERSONAL-ASSISTANT)
